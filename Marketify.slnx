@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Marketify.DataAccess/Marketify.DataAccess.csproj" Id="58591eb1-5383-4506-aa98-30de1b297b9f" />
+  <Project Path="Marketify.Models/Marketify.Models.csproj" Id="7373a9b8-fdc5-4f35-bce9-45bf3d32a025" />
+  <Project Path="Marketify.Utility/Marketify.Utility.csproj" Id="047901d3-82b6-45da-b156-149f73a48520" />
+  <Project Path="MarketifyMVC/MarketifyMVC.csproj" />
+  <Project Path="MarketifyWebRazor_Temp/MarketifyWebRazor_Temp.csproj" Id="1fce3cc2-1c41-40a4-afce-db0e992a9933" />
+</Solution>
